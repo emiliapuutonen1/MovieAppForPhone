@@ -48,6 +48,11 @@ Dependencies:
     "react-native-screens": "^3.29.0",
     "react-native-snap-carousel": "^3.9.1",
     "react-native-svg": "^15.1.0"
+    
+    "devDependencies": {
+    "@babel/core": "^7.20.0",
+    "tailwindcss": "^3.3.2"
+  },
 
 Build and Test: After configuring the API key, build and run the app on your preferred development environment or device. 
 Ensure that the app functions correctly and retrieves movie data from the Movie Database API.
